@@ -1,1 +1,6 @@
 test
+新建分支
+git checkout -b 分支名
+分支注意暂存
+git stash
+git stash pop
